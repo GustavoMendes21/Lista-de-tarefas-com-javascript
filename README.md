@@ -13,4 +13,5 @@ Um todo list feito em HTML, CSS e Javascript com a finalidade de treinar conceit
 * Manipulação de objetos
 * Salvar, deletar e obter dados do Local Storage
 
-## 📷 Screenshot: 
+## 📷 Screenshot:
+![Screenshot](https://github.com/GustavoMendes21/Lista-de-tarefas-com-javascript/blob/main/screenshot-rocks.png)
